@@ -1,1 +1,1 @@
-console.log("imprir algo")
+console.log('imprir algo');
