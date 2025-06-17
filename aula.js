@@ -1,1 +1,1 @@
-let preco
+console.log ('ola')
