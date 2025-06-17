@@ -1,11 +1,8 @@
-const numero = 12;
-const numeroDivisivelPOr5 =  ( numero % 5) === 0;
+const numero = 5;
 
-if (numero === 0){
-    console.log('o numero é invalido');
-} else if(numeroDivisivelPOr5){
-    console.log('sim');
+if ((numero % 2)===0) {
+    console.log('o numero é par')
 }
-else{
-    console.log('nao');
+else {
+    console.log('o numero é impar');
 }
