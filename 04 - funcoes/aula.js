@@ -1,9 +1,10 @@
 function calcularJuros(){
-    
+
 }
 
 
 function main(){
-    console.log('programa princiapal')
+    console.log('programa princiapal');
+    calcularJuros();
 }
 main()
